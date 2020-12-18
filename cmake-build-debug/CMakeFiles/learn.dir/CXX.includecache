@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/piao/CLionProjects/learn/ip_config.cpp
+sstream
+-
+iostream
+-
+fstream
+-
+map
+-
+vector
+-
+
